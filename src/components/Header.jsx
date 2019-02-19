@@ -49,6 +49,7 @@ function Header(){
   const navStyle2 = {
     backgroundColor: '#535353',
     paddingLeft: '15px',
+    marginBottom: '40px',
     height: '35px',
     borderTop: '0.05em solid #F9F9F9'
   }
