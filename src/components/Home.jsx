@@ -19,9 +19,8 @@ class Home extends React.Component {
   render(){
 
     const contentStyle = {
-      position: 'fixed',
-      top: '135px',
-
+      position: 'relative',
+      bottom: '770px',
     }
 
     return(
